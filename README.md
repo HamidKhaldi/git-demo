@@ -10,4 +10,4 @@ just random text
 ### this is a sub-subheading
 website content:
 index.html
-I'm adding more content here.
+I'm adding more content.
